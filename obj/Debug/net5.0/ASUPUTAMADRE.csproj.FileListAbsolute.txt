@@ -1,0 +1,16 @@
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\bin\Debug\net5.0\ASUPUTAMADRE.exe
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\bin\Debug\net5.0\ASUPUTAMADRE.deps.json
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\bin\Debug\net5.0\ASUPUTAMADRE.runtimeconfig.json
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\bin\Debug\net5.0\ASUPUTAMADRE.runtimeconfig.dev.json
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\bin\Debug\net5.0\ASUPUTAMADRE.dll
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\bin\Debug\net5.0\ref\ASUPUTAMADRE.dll
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\bin\Debug\net5.0\ASUPUTAMADRE.pdb
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ASUPUTAMADRE.csproj.AssemblyReference.cache
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ASUPUTAMADRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ASUPUTAMADRE.AssemblyInfoInputs.cache
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ASUPUTAMADRE.AssemblyInfo.cs
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ASUPUTAMADRE.csproj.CoreCompileInputs.cache
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ASUPUTAMADRE.dll
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ref\ASUPUTAMADRE.dll
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ASUPUTAMADRE.pdb
+C:\Users\fn031909\source\repos\ASUPUTAMADRE\obj\Debug\net5.0\ASUPUTAMADRE.genruntimeconfig.cache
