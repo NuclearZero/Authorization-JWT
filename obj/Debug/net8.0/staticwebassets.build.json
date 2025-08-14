@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YKg6FDVz8A4BsEWHdXVMtrO8Lv542ldeizDQWCzM584=",
+  "Source": "AuthorizationAPI",
+  "BasePath": "_content/AuthorizationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
